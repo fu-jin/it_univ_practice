@@ -1,0 +1,25 @@
+body {
+  background: rgb(132, 189, 241);
+}
+
+h1 {
+  color: rgb(4, 10, 65);
+}
+p.taitol {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(4, 10, 65);
+  display: inline-block;
+  border-bottom: 2px solid  rgb(12, 19, 109);
+}
+
+li {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(38, 40, 148);
+}
+ul p {
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(38, 40, 148);
+}
